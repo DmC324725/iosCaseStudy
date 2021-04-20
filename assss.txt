@@ -44,4 +44,3 @@ vboxadd:x:999:1::/var/run/vboxadd:/bin/false
 mysql:x:124:129:MySQL Server,,,:/nonexistent:/bin/false
 tomcat7:x:125:130::/usr/share/tomcat7:/bin/false
 cyt130:*:1000:1000:CYT130,,,:/home/cyt130:/bin/bash
-user1:*:1001:1001:,,,:/home/user1:/bin/bash
